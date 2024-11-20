@@ -1,0 +1,143 @@
+[
+  {
+    "key": "Success",
+    "valueAr": "تم",
+    "valueEn": "Success"
+  },
+  {
+    "key": "Error",
+    "valueAr": "خطأ",
+    "valueEn": "Error"
+  },
+  {
+    "key": "InternalServerErrorOccured",
+    "valueAr": "حدث خطأ داخلى",
+    "valueEn": "Internal Server Error"
+  },
+  {
+    "key": "BadRequest",
+    "valueAr": "خطأ فى الطلب المرسل",
+    "valueEn": "Bad Request"
+  },
+  {
+    "key": "Unauthorized",
+    "valueAr": "غير مسموح لك بالدخول",
+    "valueEn": "Not Authorized"
+  },
+  {
+    "key": "Forbidden",
+    "valueAr": "أنت لاتمتلك صلاحية لهذا الإجراء",
+    "valueEn": "You Don't Have Permission To This Action"
+  },
+  {
+    "key": "UnexpectedFailurePLeaseTryAgainLater",
+    "valueAr": "خطأ غير متوقع الرجاء المحاولة لاحقاً",
+    "valueEn": "Unexpected Failure PLease Try Again Later"
+  },
+  {
+    "key": "UserNotExist",
+    "valueAr": "المستخدم غير موجود",
+    "valueEn": "User Not Exist"
+  },
+  {
+    "key": "ItemNotExist",
+    "valueAr": "العنصر غير موجود",
+    "valueEn": "Item Not Exist"
+  },
+  {
+    "key": "PleaseProvideTheRequiredParameters",
+    "valueAr": "الرجاء ادخال العناصر المطلوبة",
+    "valueEn": "Please Provide The Required Parameters"
+  },
+  {
+    "key": "UserRegisteredSuccessfully",
+    "valueAr": "تم إنشاء المستخدم بنجاح، من فضلك قم بتفعيل الحساب عن طريق ادخال الرقم المتغير المرسل إليك.",
+    "valueEn": "User Registered Successfully, Please verify The Account By Entering OTP Sended To Your Email."
+  },
+  {
+    "key": "TheEmailOrPasswordIsIncorrectPleaseTryAgain",
+    "valueAr": "البريد الإلكترونى أو كلمة المرور غير صحيحة، الرجاء المحاولة مرة أخرى",
+    "valueEn": "The Email Or Password Is Incorrect, Please Try Again"
+  },
+  {
+    "key": "UserIsBlocked",
+    "valueAr": "المستخدم محظور من الدخول للنظام",
+    "valueEn": "User Is Blocked"
+  },
+  {
+    "key": "UserActivatedSuccessfully",
+    "valueAr": "تم تفعيل المستخدم بنجاح",
+    "valueEn": "User Activated Successfully"
+  },
+  {
+    "key": "OtpSendPleaseCheckYourVerificationMethod",
+    "valueAr": "تم ارسال رمز التفعيل الى وسيلة التحقق المختارة",
+    "valueEn": "Otp Send To Your Selected Verification Method"
+  },
+  {
+    "key": "NotificationSendSuccesfullyToVerificationMethod",
+    "valueAr": "تم اعادة ارسال رمز التفعيل الى وسيلة التحقق المختارة",
+    "valueEn": "Otp Resent To Your Selected Verification Method"
+  },
+  {
+    "key": "PasswordResetedSuccessfully",
+    "valueAr": "تم إعادة تعيين كلمة السر بنجاح",
+    "valueEn": "Password Reseted Successfully"
+  },
+  {
+    "key": "UserIsAlreadyActivated",
+    "valueAr": "المستخدم مفعل بالفعل",
+    "valueEn": "User Is Already Activated"
+  },
+  {
+    "key": "TokenIsNotValidOrExpired",
+    "valueAr": "رمز التحقق غير صحيح أو منتهى",
+    "valueEn": "Token Is Not Valid Or Expired"
+  },
+  {
+    "key": "ThisMobileOrEmailIsAlreadyExists",
+    "valueAr": "رقم الهاتف/ البريد الإلكترونى المدخل مستخدم من قبل",
+    "valueEn": "This Mobile/Email Is Already Exists"
+  },
+  {
+    "key": "ItemIsAlreadyExist",
+    "valueAr": "العنصر موجود بالفعل",
+    "valueEn": "Item Is Already Exists"
+  },
+  // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  {
+    "key": "ItemCreatedSuccessfully",
+    "valueAr": "تم الإضافه بنجاح",
+    "valueEn": "Item Created Successfully"
+  },
+  {
+    "key": "ItemUpdatedSuccessfully",
+    "valueAr": "تم التعديل بنجاح",
+    "valueEn": "Item Updated Successfully"
+  },
+  {
+    "key": "NameIsRepeated",
+    "valueAr": "الإسم مكرر",
+    "valueEn": "Name Is Repeated"
+  },
+  {
+    "key": "OnlyArabicCharactersAllowed",
+    "valueAr": "مسموح فقط بالحروف العربية",
+    "valueEn": "Only Arabic Characters Allowed"
+  },
+  {
+    "key": "NotMeaningfulArabicName",
+    "valueAr": "اسم عربي غير ذي معنى",
+    "valueEn": "Not Meaningful Arabic Name"
+  },
+  {
+    "key": "Can'tRegister",
+    "valueAr": "لا يمكن التسجيل",
+    "valueEn": "Can't Register"
+  },
+  {
+    "key": "UserVerifiedSuccessfully",
+    "valueAr": "تم التحقق من المستخدم بنجاح",
+    "valueEn": "User Verified Successfully"
+  }
+]
